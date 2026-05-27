@@ -1,3 +1,16 @@
+## [7.9.2](https://github.com/onecx/onecx-portal-ui-libs/compare/v7.9.1...v7.9.2) (2026-05-22)
+
+### Bug Fixes
+
+* data pipe error ([#1459](https://github.com/onecx/onecx-portal-ui-libs/issues/1459)) ([#1463](https://github.com/onecx/onecx-portal-ui-libs/issues/1463)) ([67d35b3](https://github.com/onecx/onecx-portal-ui-libs/commit/67d35b32a64e48b86886321e10f02791a1bdf01b))
+
+## [7.9.1](https://github.com/onecx/onecx-portal-ui-libs/compare/v7.9.0...v7.9.1) (2026-05-21)
+
+### Bug Fixes
+
+* added .card styling from v5 ([#1456](https://github.com/onecx/onecx-portal-ui-libs/issues/1456)) ([74ffcb0](https://github.com/onecx/onecx-portal-ui-libs/commit/74ffcb0177931766a0ea1ef1ddb7bb297f63d365))
+* better error handling + skip existing packages (v7) ([#1439](https://github.com/onecx/onecx-portal-ui-libs/issues/1439)) ([58e0bbd](https://github.com/onecx/onecx-portal-ui-libs/commit/58e0bbdb891d463ad0798e266ce6128e57c9a9f3))
+
 ## [7.9.0](https://github.com/onecx/onecx-portal-ui-libs/compare/v7.8.0...v7.9.0) (2026-05-11)
 
 ### Features
